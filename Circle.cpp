@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Please replace this Point class with your version from Part B
+// this file uses classes to find calculations for a circle
 class Point {
 public:
     Point(){
@@ -66,7 +66,7 @@ class Circle {
     }
 
 public:
-    // Add your functions/methods here //
+    
     Circle(){
         setX1(0);
         setX2(x2);
