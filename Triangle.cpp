@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Please replace this Point class with your version from Part B
+
 class Point {
 public:
     Point(){
@@ -66,7 +66,7 @@ class Triangle {
     }
 
 public:
-    // Add your functions/methods here //
+   
     Triangle(){
         setX1(x1);
         setX2(x2);
